@@ -1,5 +1,16 @@
-### Hi there -> 👀
+### Hi there 👀
 
-- 🔭 I’m currently working on (frontend, backend, data analysis, medical sw prototyping)
-- 🌲 I’m currently working with (TypeScript, CSS, React, ReactNative, Android-Kotlin, Angular, Java, Kotlin, Python, Lua, Unity3D ...)
-- ⚡ Fun fact: Owls are not what they seem.
+- 🔭 I’m currently working on 
+  -  Frontend, Backend
+  -  Data analysis
+  -  Medical sw and hw develop and prototyping
+- 🌲 I’m currently working with 
+  - TypeScript, CSS
+  - React, Angular, Svelte 
+  - Mobile development (Android native, ReactNative) 
+  - Python 
+  - Lua
+  - Unity3D
+  - and more ...
+- ⚡ Fun fact
+  - Owls are not what they seem
