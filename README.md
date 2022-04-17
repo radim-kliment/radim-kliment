@@ -13,5 +13,5 @@
   - CI (Gitlab, Github)
   - and more ...
 - ⚡ Fun facts
-  - Owls are not what they seem
-  - Birds aren't real
+  - Owls are not what they seem 🦉
+  - Birds aren't real 🐦
