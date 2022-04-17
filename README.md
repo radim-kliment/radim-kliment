@@ -12,6 +12,6 @@
   - 3D print prototypes (Fusion360, OpenSCAD)
   - CI (Gitlab, Github)
   - and more ...
-- ⚡ Fun fact
+- ⚡ Fun facts
   - Owls are not what they seem
   - Birds aren't real
