@@ -7,7 +7,7 @@
 - 🌲 I’m currently working with 
   - Web development (TypeScript, HTML+CSS, React, Angular, Svelte, NextJS)
   - Mobile development (Android - Kotlin, ReactNative, Flutter) 
-  - Game development (Unity3D, Godot)
+  - Game development (Unity3D, Godot, PyGame)
   - Server side scripting (Python, Lua, Bash)
   - 3D print prototypes (Fusion360, OpenSCAD)
   - CI (Gitlab, Github)
