@@ -12,6 +12,7 @@
   - Server side scripting (Python, Lua, Bash)
   - 3D print prototypes (Fusion360, OpenSCAD)
   - CI (Gitlab, Github)
+  - Elixir lang 🧪
   - and more ...
 - ⚡ Fun facts
   - Owls are not what they seem 🦉
