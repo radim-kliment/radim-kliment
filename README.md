@@ -3,7 +3,7 @@
 - 🔭 I’m currently working on 
   -  Frontend, Backend
   -  Data analysis (Python, R, Octave)
-  -  Medical (SW, HW, Alghorithms) -> developing and prototyping
+  -  Medical (SW, HW, Alghorithms) -> developing and prototyping biosignal devices, medical data analysis
 - 🌲 I’m currently working with 
   - Web development (TypeScript, HTML+CSS, React, Angular, Svelte, NextJS)
   - Mobile development (Android - Kotlin, ReactNative, Flutter)
